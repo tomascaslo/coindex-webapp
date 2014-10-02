@@ -1,0 +1,24 @@
+{
+  "name": "coindexer",
+  "version": "0.0.0",
+  "authors": [
+    "Tomas Castro <tomas.caslo90@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "angular": "~1.2.18",
+    "angular-ui-router": "~0.2.10",
+    "angular-sanitize": "~1.2.18",
+    "angular-animate": "~1.2.18",
+    "angular-strap": "~2.0.3",
+    "bootstrap": "~3.1.1"
+  }
+}
